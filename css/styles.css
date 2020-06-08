@@ -1,0 +1,46 @@
+body {
+  background-color: #f4f7c5;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 6%;
+}
+
+img {
+  height: 200px
+}
+
+h1 {
+  color: #aacdbe;
+  text-shadow: 1px 1px 5px #aacfcf;
+  font-family: sans-serif;
+}
+
+h3 {
+  color: #aacdbe;
+  font-family: sans-serif;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+table {
+  font-family: sans-serif;
+}
+
+ol {
+  font-family: sans-serif;
+}
+
+ul {
+  font-family: sans-serif;
+}
+
+label {
+  font-family: sans-serif;
+}
